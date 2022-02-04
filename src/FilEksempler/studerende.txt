@@ -1,0 +1,8 @@
+3 Jens Jensen Jensvej 28 2200 67676767 1a
+4 Helle Knudsen Knudsvej 10 2200 45454545 1b
+5 Karl Larsen Julianevej 11 2300 12121313 1a
+6 Inge Jensen Ingavej 8 2400 12345234 1b
+7 Peter Hansen Omvej 2 2300 12347895 1a
+8 Helge Kring Hellevej 7 2000 45454545 1b
+9 Pia Sørensen Skovvej 6 2300 56453423 1a
+10 Inger Thomsen Gormsvej 5 2300 56123987 1a
